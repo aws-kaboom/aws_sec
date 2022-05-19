@@ -1,2 +1,8 @@
 aws_key:stam
 aws_secret:stam
+
+[default]
+aws_access_key_id = AKIAYVP4CIPPF7QS566D
+aws_secret_access_key = 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
+output = json
+region = us-east-2
